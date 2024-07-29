@@ -1,4 +1,3 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm vkatzenberger</h1>
 <h3 align="center">Software Engineer | Data Analyst | Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
