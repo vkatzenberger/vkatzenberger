@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Data Analyst | Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Data Analysis and PowerBI**
+- 🌱 I’m currently learning **Python and PowerBI**
 
 - 👯 I’m looking to collaborate on **Data and AI projects**
 
